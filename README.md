@@ -1,1 +1,1 @@
-# Fundamentals-Of-Cryptography
+# FundamentalsOfCryptography
